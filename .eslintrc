@@ -1,0 +1,41 @@
+  {
+    "globals": {
+      "_": true,
+      "localStorage": true,
+      "fetch": true,
+      "browser": true
+    },
+    "extends": [
+      "airbnb",
+      "prettier",
+      "prettier/react"
+    ],
+    "rules": {
+      "no-console": 0,
+      "no-param-reassign": "off",
+      "linebreak-style": [
+        "error",
+        "windows"
+      ],
+      "react/jsx-filename-extension": [
+        1,
+        {
+          "extensions": [
+            ".js",
+            ".jsx"
+          ]
+        }
+      ],
+      "prettier/prettier": [
+        "error",
+        {
+          "trailingComma": "es5",
+          "singleQuote": true,
+          "printWidth": 100
+        }
+      ]
+    },
+    "plugins": [
+      "prettier"
+    ]
+  }

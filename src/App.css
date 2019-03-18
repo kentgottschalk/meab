@@ -1,0 +1,397 @@
+/* fonts */
+@import url('https://fonts.googleapis.com/css?family=Tangerine');
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display');
+
+/* general elements */
+
+/*
+h1,h2,h3,h4,h5,h6 {
+  font-family: "Tangerine";
+}
+*/
+
+body {
+  font-family: "Raleway";
+}
+
+h1 {
+  margin-top: 0px;
+}
+
+h2 {
+  margin-bottom: 0px;
+}
+
+button {
+  cursor: pointer;
+  border: 1px solid #ddd;
+  vertical-align: baseline;
+  background: white;
+  margin: 0;
+  padding: 0.5em;
+  text-transform: none;
+  text-shadow: none;
+  font-weight: 500;
+  line-height: 1em;
+  text-align: center;
+  font-family: "Raleway";
+  font-size: 1em;
+  outline:0;
+}
+
+button.primary {
+  background: #ddd;
+}
+
+button:disabled {
+  cursor: not-allowed;
+}
+
+input {
+  border: 1px solid #ddd;
+  text-align: center;
+  font-family: "Raleway";
+  font-size: 1em;
+  /* min-height: 34px; */
+}
+
+input[type="submit" i] {
+  cursor: pointer;
+}
+
+select {
+  border: none;
+  font-size: 1em;
+  font-family: "Raleway";
+}
+
+/* container */
+
+.container {
+  margin: auto;
+  max-width: 1000px;
+  display: grid;
+  padding: 15px;
+}
+
+.box {
+  border: 1px solid #ddd;
+  padding: 0.5em;
+}
+
+/* logo */
+
+.logo {
+  text-align: center;
+  padding: 15px;
+}
+
+/* menu */
+.menu {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  grid-column-gap: 1em;
+  margin-bottom: 1em;
+}
+
+/* army */
+.army {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1em 1fr;
+  grid-column-gap: 0;
+  margin-bottom: 1em;
+}
+
+.army button:first-child {
+  border-right: 0px;
+} 
+
+/* warband */
+.warband {
+  display: grid;
+  grid-template-columns: 1fr 2fr 1fr;
+  border-top: 1px solid #ddd;
+  border-left: 1px solid #ddd;
+  margin-bottom: 1em;
+}
+
+.warband > div {
+  border-right: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+  padding: 0.5em;
+}
+
+.warband > div.hiddenCell {
+  border-bottom: 0px;
+}
+
+.right {
+  float: right;
+  border: 1px solid #ddd;
+  cursor: pointer;
+  padding: 0px;
+  width: 15px;
+  text-align: center;
+}
+
+.warbandmenu {
+  grid-column: span 3;
+}
+
+/* stat */
+.stat {
+  margin-top: 15px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-column-gap: 1em;
+}
+
+.stat > div {
+  border: 1px solid #ddd;
+}
+
+.stat > div > div {
+  padding: 0.5em;
+  text-align: center;
+}
+
+.stat > div > div:first-child {
+  border-bottom: 1px solid #ddd;
+}
+
+/* units */
+
+.hiddenToggle { 
+  display: none;
+}
+
+.optionsToggle {
+  padding: 0px 15px 0px 15px; 
+  cursor:pointer;
+  outline:0;
+}
+
+/* */
+
+/* The switch - the box around the slider */
+.switch {
+  position: relative;
+  display: inline-block;
+  width: 40px;
+  height: 22px;
+}
+
+/* Hide default HTML checkbox */
+.switch input {
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+
+/* The slider */
+.slider {
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #ccc;
+  -webkit-transition: .4s;
+  transition: .4s;
+}
+
+.slider:before {
+  position: absolute;
+  content: "";
+  height: 14px;
+  width: 14px;
+  left: 4px;
+  bottom: 4px;
+  background-color: white;
+  -webkit-transition: .4s;
+  transition: .4s;
+}
+
+input:checked + .slider {
+  background-color: black;
+}
+
+input:focus + .slider {
+  box-shadow: 0 0 1px black;
+}
+
+input:checked + .slider:before {
+  -webkit-transform: translateX(16px);
+  -ms-transform: translateX(16px);
+  transform: translateX(16px);
+}
+
+/* Rounded sliders */
+.slider.round {
+  border-radius: 20px;
+}
+
+.slider.round:before {
+  border-radius: 50%;
+}
+
+
+/* modal */
+
+.hiddenModal { 
+  display: none;
+}
+
+.modal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width:100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.6);
+}
+
+.modal-main {
+  position:fixed;
+  background: white;
+  width: 25%;
+  height: auto;
+  top:50%;
+  left:50%;
+  transform: translate(-50%,-50%);
+  padding: 15px;
+}
+
+.display-block {
+  display: block;
+}
+
+.display-none {
+  display: none;
+}
+
+.closeButton {
+  position: absolute;
+  top: 15px;
+  right: 15px;
+  border: 1px solid #ddd;
+  cursor: pointer;
+  padding: 0px;
+  width: 15px;
+  text-align: center;
+}
+
+.modalform {
+  display: grid;
+  grid-template-columns: 5fr 1fr;
+  grid-column-gap: 1em;
+  margin-top: 1em;
+}
+
+.modal input {
+  min-height: 34px;
+}
+
+.modal .savetopdf input {
+  min-height: 34px;
+  display: block;
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.savelink {
+  border: 1px solid #ddd;
+  display: inline-block;
+  padding: 0.5em;
+  color: black;
+  text-decoration: none;
+}
+
+.loadlabel, .loadinput {
+  float: left;
+}
+
+.loadform {
+  margin-top: 10px;
+}
+
+.loadlabel {
+  text-align: center;
+  padding: 8px 0px 0px 10px;
+}
+
+.loadform input {
+  clear: left;
+  min-height: 30px;
+}
+
+/* hacks and utils */
+
+.floatright {
+  float: right;
+}
+
+.center {
+  text-align: center;
+  display: block;
+}
+
+ul {
+  padding: 0px;
+}
+
+li {
+  line-height: 30px;
+  list-style: none;
+}
+
+.alert {
+  background-color: #f8d7da;
+}
+
+.light {
+  color: #666;
+}
+
+/* backend */
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+table, th, td {
+  border: 1px solid #ddd;
+  text-transform: capitalize;
+}
+
+
+td {
+  padding: 0.5em;
+}
+
+/* tablist */
+
+.tab-list {
+  border-bottom: 1px solid #ddd;
+  padding-left: 0;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+}
+
+.tab-list-item {
+  display: inline-block;
+  list-style: none;
+  margin-bottom: -1px;
+  padding: 0.5em;
+  text-align: center;
+  cursor: pointer;
+}
+
+.tab-list-active {
+  background-color: white;
+  border: solid #ddd;
+  border-width: 1px 1px 0 1px;
+}

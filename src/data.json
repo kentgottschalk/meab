@@ -1,0 +1,1466 @@
+{
+  "factions": [
+    {
+      "fid": 1,
+      "name": "The Fellowship",
+      "value": "The Fellowship",
+      "align": "Good",
+      "allies": [
+        {
+          "Historical Allies": [
+            "Lot"
+          ]
+        },
+        {
+          "Convenient Allies": []
+        },
+        {
+          "Impossible Allies": []
+        }
+      ]
+    },
+    {
+      "fid": 2,
+      "name": "The Shire",
+      "value": "The Shire",
+      "align": "Good",
+      "allies": [
+        {
+          "Historical Allies": []
+        },
+        {
+          "Convenient Allies": []
+        },
+        {
+          "Impossible Allies": []
+        }
+      ]
+    },
+    {
+      "fid": 3,
+      "name": "The Rangers",
+      "value": "The Rangers",
+      "align": "Good",
+      "allies": [
+        {}
+      ]
+    },
+    {
+      "fid": 4,
+      "name": "Numenor",
+      "value": "Numenor",
+      "align": "Good",
+      "allies": [
+        {}
+      ]
+    },
+    {
+      "fid": 5,
+      "name": "Minas Tirith",
+      "value": "Minas Tirith",
+      "align": "Good",
+      "allies": [
+        {}
+      ]
+    },
+    {
+      "fid": 6,
+      "name": "The Fiefdoms",
+      "value": "The Fiefdoms",
+      "align": "Good",
+      "allies": [
+        {}
+      ]
+    },
+    {
+      "fid": 7,
+      "name": "The Dead of Dunharrow",
+      "value": "The Dead of Dunharrow",
+      "align": "Good",
+      "allies": [
+        {}
+      ]
+    },
+    {
+      "fid": 8,
+      "name": "Arnor",
+      "value": "Arnor",
+      "align": "Good",
+      "allies": [
+        {}
+      ]
+    },
+    {
+      "fid": 9,
+      "name": "Rohan",
+      "value": "Rohan",
+      "align": "Good",
+      "allies": [
+        {}
+      ]
+    },
+    {
+      "fid": 10,
+      "name": "Rivendell",
+      "value": "Rivendell",
+      "align": "Good",
+      "allies": [
+        {}
+      ]
+    },
+    {
+      "fid": 11,
+      "name": "Lothlorien",
+      "value": "Lothlorien",
+      "align": "Good",
+      "allies": [
+        {}
+      ]
+    },
+    {
+      "fid": 12,
+      "name": "Fangorn",
+      "value": "Fangorn",
+      "align": "Good",
+      "allies": [
+        {}
+      ]
+    },
+    {
+      "fid": 13,
+      "name": "The Misty Mountains",
+      "value": "The Misty Mountains",
+      "align": "Good",
+      "allies": [
+        {}
+      ]
+    },
+    {
+      "fid": 14,
+      "name": "The Kingdom of Khazad-Dum",
+      "value": "The Kingdom of Khazad-Dum",
+      "align": "Good",
+      "allies": [
+        {}
+      ]
+    },
+    {
+      "fid": 15,
+      "name": "Wanderers in the Wild",
+      "value": "Wanderers in the Wild",
+      "align": "Good",
+      "allies": [
+        {}
+      ]
+    },
+    {
+      "fid": 16,
+      "name": "Erebor Reclaimed",
+      "value": "Erebor Reclaimed",
+      "align": "Good",
+      "allies": [
+        {}
+      ]
+    },
+    {
+      "fid": 17,
+      "name": "The Army of Lake-town",
+      "value": "The Army of Lake-town",
+      "align": "Good",
+      "allies": [
+        {}
+      ]
+    },
+    {
+      "fid": 18,
+      "name": "Thranduil's Halls",
+      "value": "Thranduil's Halls",
+      "align": "Good",
+      "allies": [
+        {}
+      ]
+    },
+    {
+      "fid": 19,
+      "name": "Thorin's Company",
+      "value": "Thorin's Company",
+      "align": "Good",
+      "allies": [
+        {}
+      ]
+    },
+    {
+      "fid": 20,
+      "name": "The Survivor's of Lake-town",
+      "value": "The Survivor's of Lake-town",
+      "align": "Good",
+      "allies": [
+        {}
+      ]
+    },
+    {
+      "fid": 21,
+      "name": "Radagast's Alliance",
+      "value": "Radagast's Alliance",
+      "align": "Good",
+      "allies": [
+        {}
+      ]
+    },
+    {
+      "fid": 22,
+      "name": "Garrison of Dale",
+      "value": "Garrison of Dale",
+      "align": "Good",
+      "allies": [
+        {}
+      ]
+    },
+    {
+      "fid": 23,
+      "name": "Azog's Hunters",
+      "value": "Azog's Hunters",
+      "align": "Evil",
+      "allies": [
+        {}
+      ]
+    },
+    {
+      "fid": 24,
+      "name": "Azog's Legion",
+      "value": "Azog's Legion",
+      "align": "Evil",
+      "allies": [
+        {}
+      ]
+    },
+    {
+      "fid": 25,
+      "name": "The Dark Denizens of Mirkwood",
+      "value": "The Dark Denizens of Mirkwood",
+      "align": "Evil",
+      "allies": [
+        {}
+      ]
+    },
+    {
+      "fid": 26,
+      "name": "Goblin Town",
+      "value": "Goblin Town",
+      "align": "Evil",
+      "allies": [
+        {}
+      ]
+    },
+    {
+      "fid": 27,
+      "name": "Dark Powers of Dol Guldor",
+      "value": "Dark Powers of Dol Guldor",
+      "align": "Evil",
+      "allies": [
+        {}
+      ]
+    },
+    {
+      "fid": 28,
+      "name": "Desolator of the North",
+      "value": "Desolator of the North",
+      "align": "Evil",
+      "allies": [
+        {}
+      ]
+    },
+    {
+      "fid": 29,
+      "name": "The Trolls",
+      "value": "The Trolls",
+      "align": "Evil",
+      "allies": [
+        {}
+      ]
+    },
+    {
+      "fid": 30,
+      "name": "Barad-Dur",
+      "value": "Barad-Dur",
+      "align": "Evil",
+      "allies": [
+        {}
+      ]
+    },
+    {
+      "fid": 31,
+      "name": "Angmar",
+      "value": "Angmar",
+      "align": "Evil",
+      "allies": [
+        {}
+      ]
+    },
+    {
+      "fid": 32,
+      "name": "Mordor",
+      "value": "Mordor",
+      "align": "Evil",
+      "allies": [
+        {}
+      ]
+    },
+    {
+      "fid": 33,
+      "name": "Moria",
+      "value": "Moria",
+      "align": "Evil",
+      "allies": [
+        {}
+      ]
+    },
+    {
+      "fid": 34,
+      "name": "Isengard",
+      "value": "Isengard",
+      "align": "Evil",
+      "allies": [
+        {}
+      ]
+    },
+    {
+      "fid": 35,
+      "name": "The Easterlings",
+      "value": "The Easterlings",
+      "align": "Evil",
+      "allies": [
+        {}
+      ]
+    },
+    {
+      "fid": 36,
+      "name": "Variags of Khand",
+      "value": "Variags of Khand",
+      "align": "Evil",
+      "allies": [
+        {}
+      ]
+    },
+    {
+      "fid": 37,
+      "name": "The Serpent Horde",
+      "value": "The Serpent Horde",
+      "align": "Evil",
+      "allies": [
+        {}
+      ]
+    },
+    {
+      "fid": 38,
+      "name": "Far Harad",
+      "value": "Far Harad",
+      "align": "Evil",
+      "allies": [
+        {
+          "Historical Allies": [
+            37
+          ]
+        },
+        {
+          "Convenient Allies": [
+            36
+          ]
+        },
+        {
+          "Impossible Allies": [
+            35
+          ]
+        }
+      ]
+    },
+    {
+      "fid": 39,
+      "name": "Corsairs of Umbar",
+      "value": "Corsairs of Umbar",
+      "align": "Evil",
+      "allies": [
+        {}
+      ]
+    },
+    {
+      "fid": 40,
+      "name": "Sharfid's Rogues",
+      "value": "Sharfid's Rogues",
+      "align": "Evil",
+      "allies": [
+        {}
+      ]
+    }
+  ],
+  "units": [
+    {
+      "uid": 1,
+      "name": "Mahüd King",
+      "value": "",
+      "type": "Hero",
+      "points": 70,
+      "herotype": "Hero of Fortitude",
+      "faction": 38,
+      "options": [
+        {
+          "name": "Warcamel",
+          "points": 10,
+          "type": "boolean"
+        },
+        {
+          "name": "Blowpipe",
+          "points": 5,
+          "type": "boolean"
+        },
+        {
+          "name": "Shield",
+          "points": 5,
+          "type": "boolean"
+        },
+        {
+          "name": "Warspear",
+          "points": 5,
+          "type": "boolean"
+        }
+      ]
+    },
+    {
+      "uid": 2,
+      "name": "Mahüd Tribesmaster",
+      "type": "Hero",
+      "points": 50,
+      "herotype": "Hero of Fortitude",
+      "faction": 38,
+      "options": [
+        {
+          "name": "Warcamel",
+          "points": 10,
+          "type": "boolean"
+        },
+        {
+          "name": "Blowpipe",
+          "points": 5,
+          "type": "boolean"
+        },
+        {
+          "name": "Shield",
+          "points": 5,
+          "type": "boolean"
+        },
+        {
+          "name": "Warspear",
+          "points": 5,
+          "type": "boolean"
+        }
+      ]
+    },
+    {
+      "uid": 3,
+      "name": "War Mümak of Far Harad",
+      "type": "Hero",
+      "points": 300,
+      "faction": 38,
+      "options": [
+        {
+          "name": "Gnarled Hide",
+          "points": 30,
+          "type": "boolean"
+        },
+        {
+          "name": "Rocks",
+          "points": 20,
+          "type": "boolean"
+        },
+        {
+          "name": "Sigils of Defiance",
+          "points": 20,
+          "type": "boolean"
+        },
+        {
+          "name": "Tusk Weapon",
+          "points": 20,
+          "type": "boolean"
+        },
+        {
+          "name": "Foul Temperament",
+          "points": 15,
+          "type": "boolean"
+        },
+        {
+          "name": "Rappelling Lines",
+          "points": 10,
+          "type": "boolean"
+        }
+      ]
+    },
+    {
+      "uid": 4,
+      "name": "Warriors of Far Harad",
+      "type": "Warrior",
+      "points": 8,
+      "faction": 38,
+      "options": [
+        {
+          "name": "Banner",
+          "points": 25,
+          "type": "boolean"
+        },
+        {
+          "name": "Blowpipe",
+          "points": 1,
+          "type": "number"
+        },
+        {
+          "name": "War spear",
+          "points": 1,
+          "type": "number"
+        }
+      ]
+    },
+    {
+      "uid": 5,
+      "name": "Mahüd Raider",
+      "type": "Warrior",
+      "points": 17,
+      "faction": 38,
+      "options": [
+        {
+          "name": "Banner",
+          "points": 25,
+          "type": "boolean"
+        },
+        {
+          "name": "Blowpipe",
+          "points": 1,
+          "type": "number"
+        },
+        {
+          "name": "War spear",
+          "points": 1,
+          "type": "number"
+        }
+      ]
+    },
+    {
+      "uid": 6,
+      "name": "Half Troll",
+      "type": "Warrior",
+      "points": 23,
+      "faction": 38,
+      "options": [
+        {
+          "name": "Two-handed club",
+          "points": 1,
+          "type": "number"
+        }
+      ]
+    },
+    {
+      "uid": 7,
+      "name": "Haradrim Warrior",
+      "type": "Warrior",
+      "points": 6,
+      "faction": 37,
+      "options": [
+        {
+          "name": "Two-handed club",
+          "points": 1,
+          "type": "number"
+        }
+      ]
+    },
+    {
+      "uid": 8,
+      "name": "Something",
+      "type": "Warrior",
+      "points": 10,
+      "faction": 37,
+      "options": [
+        {
+          "name": "Two-handed club",
+          "points": 1,
+          "type": "number"
+        }
+      ]
+    },
+    {
+      "uid": 9,
+      "name": "Frodo Baggings",
+      "type": "Hero of Fortitude",
+      "points": 60,
+      "faction": 1,
+      "options": [
+        {
+          "name": "Mithril Coat",
+          "points": 15,
+          "type": "boolean"
+        },
+        {
+          "name": "Sting",
+          "points": 5,
+          "type": "boolean"
+        },
+        {
+          "name": "Elven Cloak",
+          "points": 5,
+          "type": "boolean"
+        }
+      ]
+    },
+    {
+      "uid": 10,
+      "name": "Samwise Gamgee",
+      "type": "Hero of Fortitude",
+      "points": 40,
+      "faction": 1,
+      "options": [
+        {
+          "name": "Elven Cloak",
+          "points": 5,
+          "type": "boolean"
+        }
+      ]
+    },
+    {
+      "uid": 11,
+      "name": "Meriadoc Brandybuck",
+      "type": "Minor Hero",
+      "points": 40,
+      "faction": 1,
+      "options": [
+        {
+          "name": "Elven Cloak",
+          "points": 5,
+          "type": "boolean"
+        }
+      ]
+    },
+    {
+      "uid": 12,
+      "name": "Peregrin Took",
+      "type": "Minor Hero",
+      "points": 10,
+      "faction": 1,
+      "options": [
+        {
+          "name": "Elven Cloak",
+          "points": 5,
+          "type": "boolean"
+        }
+      ]
+    },
+    {
+      "uid": 13,
+      "name": "Gandalf the Grey",
+      "type": "Hero of Legend",
+      "points": 170,
+      "faction": 1,
+      "options": [
+        {
+          "name": "Cart",
+          "points": 25,
+          "type": "boolean"
+        },
+        {
+          "name": "Horse",
+          "points": 10,
+          "type": "boolean"
+        }
+      ]
+    },
+    {
+      "uid": 14,
+      "name": "Aragon Strider",
+      "type": "Hero of Valour",
+      "points": 160,
+      "faction": 1,
+      "options": [
+        {
+          "name": "Andúril, Flame of the West",
+          "points": 40,
+          "type": "boolean"
+        },
+        {
+          "name": "Horse",
+          "points": 10,
+          "type": "boolean"
+        },
+        {
+          "name": "Armour",
+          "points": 5,
+          "type": "boolean"
+        },
+        {
+          "name": "Bow",
+          "points": 5,
+          "type": "boolean"
+        },
+        {
+          "name": "Elven Cloak",
+          "points": 10,
+          "type": "boolean"
+        }
+      ]
+    },
+    {
+      "uid": 14,
+      "name": "Boromir of Gondor",
+      "type": "Hero of Valour",
+      "points": 95,
+      "faction": 1,
+      "options": [
+        {
+          "name": "Horse",
+          "points": 10,
+          "type": "boolean"
+        },
+        {
+          "name": "Elven Cloak",
+          "points": 5,
+          "type": "boolean"
+        },
+        {
+          "name": "Shield",
+          "points": 5,
+          "type": "boolean"
+        }
+      ]
+    },
+    {
+      "uid": 15,
+      "name": "Legolas Greenleaf",
+      "type": "Hero of Valour",
+      "points": 100,
+      "faction": 1,
+      "options": [
+        {
+          "name": "Horse",
+          "points": 10,
+          "type": "boolean"
+        },
+        {
+          "name": "EArmour",
+          "points": 5,
+          "type": "boolean"
+        },
+        {
+          "name": "Elven Cloak",
+          "points": 5,
+          "type": "boolean"
+        }
+      ]
+    },
+    {
+      "uid": 16,
+      "name": "Gimli Son of Glóin",
+      "type": "Hero of Valour",
+      "points": 100,
+      "faction": 1,
+      "options": [
+        {
+          "name": "Elven Cloak",
+          "points": 5,
+          "type": "boolean"
+        }
+      ]
+    },
+    {
+      "uid": 17,
+      "name": "Bill the Pony",
+      "type": "Independent Hero",
+      "points": 25,
+      "faction": 1,
+      "options": []
+    },
+    {
+      "uid": 18,
+      "name": "Sméagol",
+      "type": "Independent Hero",
+      "points": 30,
+      "faction": 1,
+      "options": []
+    },
+    {
+      "uid": 19,
+      "name": "Frodo of the Nine Fingers",
+      "type": "Hero of Fortitude",
+      "points": 60,
+      "faction": 2,
+      "options": [
+        {
+          "name": "Elven Cloak",
+          "points": 5,
+          "type": "boolean"
+        },
+        {
+          "name": "Pony",
+          "points": 5,
+          "type": "boolean"
+        }
+      ]
+    },
+    {
+      "uid": 20,
+      "name": "Samwise the Brave",
+      "type": "Hero of Fortitude",
+      "points": 45,
+      "faction": 2,
+      "options": [
+        {
+          "name": "Elven Cloak",
+          "points": 5,
+          "type": "boolean"
+        },
+        {
+          "name": "Pony",
+          "points": 5,
+          "type": "boolean"
+        }
+      ]
+    },
+    {
+      "uid": 21,
+      "name": "Meriadoc, Captain of the Shire",
+      "type": "Hero of Valour",
+      "points": 45,
+      "faction": 2,
+      "options": [
+        {
+          "name": "Elven Cloak",
+          "points": 5,
+          "type": "boolean"
+        },
+        {
+          "name": "Pony",
+          "points": 5,
+          "type": "boolean"
+        },
+        {
+          "name": "Shield",
+          "points": 5,
+          "type": "boolean"
+        }
+      ]
+    },
+    {
+      "uid": 22,
+      "name": "Peregrin, Captain of the Shire",
+      "type": "Hero of Valour",
+      "points": 45,
+      "faction": 2,
+      "options": [
+        {
+          "name": "Elven Cloak",
+          "points": 5,
+          "type": "boolean"
+        },
+        {
+          "name": "Pony",
+          "points": 5,
+          "type": "boolean"
+        },
+        {
+          "name": "Shield",
+          "points": 5,
+          "type": "boolean"
+        }
+      ]
+    },
+    {
+      "uid": 23,
+      "name": "Paladin Took",
+      "type": "Hero of Fortitude",
+      "points": 25,
+      "faction": 2,
+      "options": []
+    },
+    {
+      "uid": 24,
+      "name": "Farmer Maggot",
+      "type": "Hero of Fortitude",
+      "points": 45,
+      "faction": 2,
+      "options": []
+    },
+    {
+      "uid": 25,
+      "name": "Lobelia, Sackville-Baggins",
+      "type": "Minor Hero",
+      "points": 15,
+      "faction": 2,
+      "options": []
+    },
+    {
+      "uid": 26,
+      "name": "Fredegar Bolger",
+      "type": "Minor Hero",
+      "points": 10,
+      "faction": 2,
+      "options": []
+    },
+    {
+      "uid": 27,
+      "name": "Bilbo Baggins",
+      "type": "Hero of Fortitude",
+      "points": 40,
+      "faction": 2,
+      "options": []
+    },
+    {
+      "uid": 28,
+      "name": "Bandobras Took",
+      "type": "Hero of Valour",
+      "points": 40,
+      "faction": 2,
+      "options": []
+    },
+    {
+      "uid": 29,
+      "name": "Hobbit Militia",
+      "type": "Warrior",
+      "points": 4,
+      "faction": 2,
+      "options": []
+    },
+    {
+      "uid": 30,
+      "name": "Hobbit Archer",
+      "type": "Warrior",
+      "points": 5,
+      "faction": 2,
+      "options": [
+        {
+          "name": "Warhorn",
+          "points": 30,
+          "type": "boolean"
+        }
+      ]
+    },
+    {
+      "uid": 31,
+      "name": "Hobbit Shirriff",
+      "type": "Warrior",
+      "points": 5,
+      "faction": 2,
+      "options": []
+    },
+    {
+      "uid": 32,
+      "name": "Arathorn",
+      "type": "Hero of Valour",
+      "points": 75,
+      "faction": 3,
+      "options": []
+    },
+    {
+      "uid": 33,
+      "name": "Halbarad",
+      "type": "Hero of Fortitude",
+      "points": 70,
+      "faction": 3,
+      "options": [
+        {
+          "name": "Banner of Arwen Evenstar",
+          "points": 40,
+          "type": "boolean"
+        },
+        {
+          "name": "Horse",
+          "points": 10,
+          "type": "boolean"
+        }
+      ]
+    },
+    {
+      "uid": 34,
+      "name": "Ranger of the North",
+      "type": "Independent Hero",
+      "points": 30,
+      "faction": 3,
+      "options": [
+        {
+          "name": "Horse",
+          "points": 10,
+          "type": "boolean"
+        },
+        {
+          "name": "Spear",
+          "points": 1,
+          "type": "boolean"
+        }
+      ]
+    },
+    {
+      "uid": 35,
+      "name": "Dünedain",
+      "type": "Independent Hero",
+      "points": 25,
+      "faction": 3,
+      "options": [
+        {
+          "name": "Spear",
+          "points": 1,
+          "type": "boolean"
+        }
+      ]
+    },
+    {
+      "uid": 36,
+      "name": "Elendil, High King of Gondor and Arnor",
+      "type": "Hero of Legend",
+      "points": 185,
+      "faction": 4,
+      "options": [
+        {
+          "name": "Horse",
+          "points": 10,
+          "type": "boolean"
+        },
+        {
+          "name": "Shield",
+          "points": 5,
+          "type": "boolean"
+        }
+      ]
+    },
+    {
+      "uid": 37,
+      "name": "Isildur",
+      "type": "Hero of Valour",
+      "points": 120,
+      "faction": 4,
+      "options": [
+        {
+          "name": "Horse",
+          "points": 10,
+          "type": "boolean"
+        },
+        {
+          "name": "Shield",
+          "points": 5,
+          "type": "boolean"
+        },
+        {
+          "name": "The Ring",
+          "points": 0,
+          "type": "boolean"
+        }
+      ]
+    },
+    {
+      "uid": 38,
+      "name": "Captain of Nümenor",
+      "type": "Hero of Fortitude",
+      "points": 50,
+      "faction": 4,
+      "options": [
+        {
+          "name": "Horse",
+          "points": 10,
+          "type": "boolean"
+        },
+        {
+          "name": "Bow",
+          "points": 5,
+          "type": "boolean"
+        },
+        {
+          "name": "Heavy Armour",
+          "points": 5,
+          "type": "boolean"
+        },
+        {
+          "name": "Lance",
+          "points": 5,
+          "type": "boolean"
+        },
+        {
+          "name": "Shield",
+          "points": 5,
+          "type": "boolean"
+        }
+      ]
+    },
+    {
+      "uid": 39,
+      "name": "Warrior of Nümenor",
+      "type": "Warrior",
+      "points": 8,
+      "faction": 4,
+      "options": [
+        {
+          "name": "Banner",
+          "points": 25,
+          "type": "boolean"
+        },
+        {
+          "name": "Bow",
+          "points": 1,
+          "type": "number"
+        },
+        {
+          "name": "Shield",
+          "points": 1,
+          "type": "number"
+        },
+        {
+          "name": "Spear",
+          "points": 1,
+          "type": "number"
+        }
+      ]
+    },
+    {
+      "uid": 40,
+      "name": "Aragorn, King Elessar",
+      "type": "Hero of Legend",
+      "points": 225,
+      "faction": 5,
+      "options": [
+        {
+          "name": "Armoured Horse",
+          "points": 15,
+          "type": "boolean"
+        }
+      ]
+    },
+    {
+      "uid": 41,
+      "name": "Gandalf the White",
+      "type": "Hero of Valour",
+      "points": 220,
+      "faction": 5,
+      "options": [
+        {
+          "name": "Shadowfax",
+          "points": 20,
+          "type": "boolean"
+        }
+      ]
+    },
+    {
+      "uid": 42,
+      "name": "Denethoe, Steward of Gondor",
+      "type": "Hero of Valour",
+      "points": 35,
+      "faction": 5,
+      "options": []
+    },
+    {
+      "uid": 43,
+      "name": "Peregrin Took",
+      "type": "Independent Hero",
+      "points": 25,
+      "faction": 5,
+      "options": [
+        {
+          "name": "Elven Cloak",
+          "points": 5,
+          "type": "boolean"
+        }
+      ]
+    },
+    {
+      "uid": 44,
+      "name": "Boromir, Captain of the White Tower",
+      "type": "Hero of Valour",
+      "points": 160,
+      "faction": 5,
+      "options": [
+        {
+          "name": "The Banner of Minas Tirith",
+          "points": 40,
+          "type": "boolean"
+        },
+        {
+          "name": "Horse",
+          "points": 10,
+          "type": "boolean"
+        },
+        {
+          "name": "Lance",
+          "points": 5,
+          "type": "boolean"
+        },
+        {
+          "name": "Shield",
+          "points": 5,
+          "type": "boolean"
+        }
+      ]
+    },
+    {
+      "uid": 45,
+      "name": "faramir, Captain of Gondor",
+      "type": "Hero of Valour",
+      "points": 80,
+      "faction": 5,
+      "options": [
+        {
+          "name": "Armoured Horse",
+          "points": 15,
+          "type": "boolean"
+        },
+        {
+          "name": "Horse",
+          "points": 10,
+          "type": "boolean"
+        },
+        {
+          "name": "Bow",
+          "points": 5,
+          "type": "boolean"
+        },
+        {
+          "name": "Heavy Armour",
+          "points": 5,
+          "type": "boolean"
+        },
+        {
+          "name": "Lance",
+          "points": 5,
+          "type": "boolean"
+        },
+        {
+          "name": "Shield",
+          "points": 5,
+          "type": "boolean"
+        }
+      ]
+    },
+    {
+      "uid": 46,
+      "name": "Beregond, Guard of the Citadel",
+      "type": "Minor Hero",
+      "points": 30,
+      "faction": 5,
+      "options": [
+        {
+          "name": "Horse",
+          "points": 10,
+          "type": "boolean"
+        }
+      ]
+    },
+    {
+      "uid": 47,
+      "name": "Madril, Captain of Ithilien",
+      "type": "Hero of Fortitude",
+      "points": 55,
+      "faction": 5,
+      "options": []
+    },
+    {
+      "uid": 48,
+      "name": "Damrod, ranger of Ithilien",
+      "type": "Minor Hero",
+      "points": 25,
+      "faction": 5,
+      "options": []
+    },
+    {
+      "uid": 49,
+      "name": "Cirion, Lieutenant of Amon Barad",
+      "type": "Hero of Fortitude",
+      "points": 55,
+      "faction": 5,
+      "options": []
+    },
+    {
+      "uid": 50,
+      "name": "Knight of the White Tower",
+      "type": "Hero of Fortitude",
+      "points": 60,
+      "faction": 5,
+      "options": []
+    },
+    {
+      "uid": 51,
+      "name": "King of Men",
+      "type": "Hero of Fortitude",
+      "points": 60,
+      "faction": 5,
+      "options": [
+        {
+          "name": "Armoured Horse",
+          "points": 15,
+          "type": "boolean"
+        },
+        {
+          "name": "Horse",
+          "points": 10,
+          "type": "boolean"
+        },
+        {
+          "name": "Heavy Armour",
+          "points": 5,
+          "type": "boolean"
+        },
+        {
+          "name": "Lance",
+          "points": 5,
+          "type": "boolean"
+        },
+        {
+          "name": "Shield",
+          "points": 5,
+          "type": "boolean"
+        }
+      ]
+    },
+    {
+      "uid": 52,
+      "name": "Captain of Minas Tirith",
+      "type": "Hero of Fortitude",
+      "points": 50,
+      "faction": 5,
+      "options": [
+        {
+          "name": "Horse",
+          "points": 10,
+          "type": "boolean"
+        },
+        {
+          "name": "Bow",
+          "points": 5,
+          "type": "boolean"
+        },
+        {
+          "name": "Lance",
+          "points": 5,
+          "type": "boolean"
+        },
+        {
+          "name": "Shield",
+          "points": 5,
+          "type": "boolean"
+        }
+      ]
+    },
+    {
+      "uid": 53,
+      "name": "Warrior of Minas Tirith",
+      "type": "Warrior",
+      "points": 7,
+      "faction": 5,
+      "options": [
+        {
+          "name": "War Horn",
+          "points": 30,
+          "type": "boolean"
+        },
+        {
+          "name": "Banner",
+          "points": 25,
+          "type": "boolean"
+        },
+        {
+          "name": "Bow",
+          "points": 1,
+          "type": "number"
+        },
+        {
+          "name": "Shield",
+          "points": 1,
+          "type": "number"
+        },
+        {
+          "name": "Spear",
+          "points": 1,
+          "type": "number"
+        }
+      ]
+    },
+    {
+      "uid": 54,
+      "name": "Knight of Minas Tirith",
+      "type": "Warrior",
+      "points": 13,
+      "faction": 5,
+      "options": [
+        {
+          "name": "Banner",
+          "points": 25,
+          "type": "boolean"
+        },
+        {
+          "name": "Shield",
+          "points": 1,
+          "type": "number"
+        }
+      ]
+    },
+    {
+      "uid": 55,
+      "name": "Ranger of Gondor",
+      "type": "Warrior",
+      "points": 8,
+      "faction": 5,
+      "options": [
+        {
+          "name": "Spear",
+          "points": 1,
+          "type": "number"
+        }
+      ]
+    },
+    {
+      "uid": 56,
+      "name": "Citadel Guard",
+      "type": "Warrior",
+      "points": 9,
+      "faction": 5,
+      "options": [
+        {
+          "name": "Horse",
+          "points": 7,
+          "type": "number"
+        },
+        {
+          "name": "Swap spear for Longbow",
+          "points": 1,
+          "type": "number"
+        }
+      ]
+    },
+    {
+      "uid": 57,
+      "name": "Guard of the Fountain Court",
+      "type": "Warrior",
+      "points": 10,
+      "faction": 5,
+      "options": [
+        {
+          "name": "Replace spear with Banner",
+          "points": 25,
+          "type": "boolean"
+        },
+        {
+          "name": "Shield",
+          "points": 1,
+          "type": "number"
+        }
+      ]
+    },
+    {
+      "uid": 58,
+      "name": "Guard of the Fountain Court",
+      "type": "Warrior",
+      "points": 10,
+      "faction": 5,
+      "options": [
+        {
+          "name": "Replace spear with Banner",
+          "points": 25,
+          "type": "boolean"
+        },
+        {
+          "name": "Shield",
+          "points": 1,
+          "type": "number"
+        }
+      ]
+    }
+  ]
+}
